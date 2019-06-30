@@ -17,4 +17,17 @@ Uploaded to my blog
 | input anything here | Format will be | automatically |
 | generated           |                |               |
 
+Markdown Code:
+```  
+##Table editing in Markdown.  
+ - Install table editor   
+    + enable table editor in the current syntax
+    + input heads and seperated by |   
+    + next line: input |-, press Tab
+
+|        head 1       |     head 2     |     head3     |
+|---------------------|----------------|---------------|
+| input anything here | Format will be | automatically |
+| generated           |                |               |
+```
 
