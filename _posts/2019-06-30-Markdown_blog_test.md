@@ -4,7 +4,7 @@
 This is my first Markdown file
 
 上传至 [My Blog](xwen1765.github.io)  
-Uploaded to my blog
+Uploaded to [my blog](xwen1765.github.io)
 
 ## Table editing in Markdown.  
  - Install table editor   
