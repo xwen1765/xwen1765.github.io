@@ -6,7 +6,7 @@ This is my first Markdown file
 上传至 [My Blog](xwen1765.github.io)  
 Uploaded to my blog
 
-##Table editing in Markdown.  
+## Table editing in Markdown.  
  - Install table editor   
  	+ enable table editor in the current syntax
  	+ input heads and seperated by |   
