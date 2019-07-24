@@ -2,6 +2,8 @@
 # Atom 简介及配置教程
 Atom 是 GitHub 开源的文本编辑器，拥有丰富的主题和插件，可以快速简洁的完成日常生活中的文本编辑任务。
 
+
+
 ### Atom 安装
 可以直接在Atom官网进行下载： [Atom官网](https://atom.io)
 
@@ -19,4 +21,6 @@ Atom 是 GitHub 开源的文本编辑器，拥有丰富的主题和插件，可
 
 ### Latex 简历模板    
 模版网站： [Latex Template](http://www.latextemplates.com/)      
-Latex templates 里有很多不同类型的模版。
+Latex templates 里有很多不同类型的模版，可以找到`CV&Resume`， 下载好喜欢的模版之后，用Atom打开,，效果如下：
+
+![temp](/Users/wen/Documents/xwen1765.github.io/post_images/latex_temp.png)    
