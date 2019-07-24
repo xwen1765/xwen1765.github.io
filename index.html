@@ -14,9 +14,9 @@ description: "不积跬步无以至千里，不积小流无以成江河"
             {{ post.subtitle }}
         </h3>
         {% endif %}
-        <div class="post-content-preview">
+        <!-- <div class="post-content-preview">
             {{ post.content | strip_html | truncate:0 }}
-        </div>
+        </div> -->
     </a>
     <p class="post-meta">
         Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
