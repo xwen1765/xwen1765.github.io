@@ -12,10 +12,11 @@ Atom 是 GitHub 开源的文本编辑器，拥有丰富的主题和插件，可
 实时预览markdown文档：**markdown-preview-enhanced**
 - 强烈推荐，整个Atom中最好用的markdown文件预览器，可以进一步配置在markdown中实时显示latex数学公式。
 
-#Atom 配置 Latex
+#Atom 配置 Latex    
+
 下载插件：`LaTeX`
 
 
-#Latex 简历模板
+#Latex 简历模板    
 模版网站： http://www.latextemplates.com/
 Latex templates 里有很多不同类型的模版。
