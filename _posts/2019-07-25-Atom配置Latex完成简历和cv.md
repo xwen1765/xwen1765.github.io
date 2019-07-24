@@ -18,5 +18,5 @@ Atom 是 GitHub 开源的文本编辑器，拥有丰富的主题和插件，可
 
 
 ### Latex 简历模板    
-模版网站： http://www.latextemplates.com/
+模版网站： [Latex Template](http://www.latextemplates.com/)      
 Latex templates 里有很多不同类型的模版。
