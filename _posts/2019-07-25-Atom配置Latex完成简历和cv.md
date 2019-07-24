@@ -23,4 +23,4 @@ Atom 是 GitHub 开源的文本编辑器，拥有丰富的主题和插件，可
 模版网站： [Latex Template](http://www.latextemplates.com/)      
 Latex templates 里有很多不同类型的模版，可以找到`CV&Resume`， 下载好喜欢的模版之后，用Atom打开,，效果如下：
 
-![temp](https://github.com/xwen1765/xwen1765.github.io/blob/master/post_images/latex_temp.png)    
+![temp](https://github.com/xwen1765/xwen1765.github.io/raw/master/post_images/latex_temp.png)    
