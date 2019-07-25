@@ -7,7 +7,7 @@ email: xwen1765@gmail.com
 # keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
 url: "http://xwen1765.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/xwen1765" # you code repository
+github_repo: "https://github.com/xwen1765/xwen1765.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
