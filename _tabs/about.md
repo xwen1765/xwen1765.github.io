@@ -13,6 +13,33 @@ In Dr. Thilo Womelsdorf's lab, my work focuses on understanding adaptive behavio
 
 --- 
 
+## Education
+
+#### Vanderbilt University
+**Ph.D. candidate in Neuroscience**
+*Start date: September 2022*
+
+#### University of Rochester
+**Honors Bachelor of Science in Brain & Cognitive Science**
+**Bachelor of Science in Computer Science**
+*Graduated: May 2022*
+- Dean's List for all eligible semesters
+- College Honor: Magna Cum Laude
+
+## Awards and Grants
+
+- **Vanderbilt Graduate School Travel Grant**
+  *Fall 2024*
+
+- **Vanderbilt Brain Institute Scholar Award**
+  *Fall 2023 - Fall 2024*
+
+- **Lacy-Fischer Interdisciplinary Research Grant**
+  *Spring 2023*
+  Vanderbilt University Student-led Research
+
+---
+
 ## Conferences and Publications
 
 ### Conference Presentations
@@ -32,3 +59,11 @@ In Dr. Thilo Womelsdorf's lab, my work focuses on understanding adaptive behavio
 ### Publications
 
 - Marcus R. Watson, Nathan Traczewski, Seema Dunghana, Kianoush Banaie Boroujeni, Adam Neumann, Xuan Wen, Thilo Womelsdorf. "A Multi-task Platform for Profiling Cognitive and Motivational Constructs in Humans and Nonhuman Primates." bioRXiv, 2023
+
+
+## Teaching Experience
+
+- **Graduate Teaching Assistant**
+  *Spring 2023*
+  NSC-3630: Drugs & Behavior
+  Under Dr. Meredyth Wegener
