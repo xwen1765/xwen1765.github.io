@@ -20,7 +20,7 @@ In Dr. Thilo Womelsdorf's lab, my work focuses on understanding adaptive behavio
 *Start date: September 2022*
 
 #### University of Rochester
-**Honors Bachelor of Science in Brain & Cognitive Science**
+**Honors Bachelor of Science in Brain & Cognitive Science**      
 **Bachelor of Science in Computer Science**
 *Graduated: May 2022*
 - Dean's List for all eligible semesters
