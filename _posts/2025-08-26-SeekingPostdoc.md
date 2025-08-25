@@ -5,7 +5,7 @@ categories: [Announcement]
 tags: [Postdoc, Job]     # TAG names 
 image:
   path: assets/img/posters/SeekingPostDoc_frontpage.png
-  alt: Seeking Postdoc Position
+  alt: SeekingPostDoc
 pin: true
 toc: false 
 ---
