@@ -1,6 +1,6 @@
 ---
 title: Actively Seeking Postdoctoral Position In 2026!
-date: 2025-08-25
+date: 2025-08-26
 categories: [Announcement]
 tags: [Postdoc, Job]     # TAG names 
 image:
