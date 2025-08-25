@@ -1,6 +1,6 @@
 ---
 title: Exploratory and Exploitative Gaze Reflect Separable Attentional Priorities Acting in Parallel
-date: 2025-08-25
+date: 2025-08-24
 categories: [Publication, Conference, Simian Collective 2025]
 tags: [Publication, Conference]     # TAG names 
 image:
