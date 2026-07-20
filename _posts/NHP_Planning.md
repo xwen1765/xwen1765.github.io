@@ -3,6 +3,9 @@ title: Planning in Nonhuman Primates Emerges from Structure Knowledge and is Dis
 date: 2026-07-19
 categories: [Publication, Cognitive Planning, Nonhuman Primates]
 tags: [Planning, Sequence Learning, Macaque]
+image:
+  path: assets/img/nhp_planning.png
+  alt: Rhesus macaque planning a sequence of future choices
 pin: false
 toc: true
 ---
